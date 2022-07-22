@@ -1,0 +1,5 @@
+﻿  sm3test.c
+D:\class\22\创新创业\SMx-master\SM3\Windows\SM3\src\sm3test.c(122,8): warning C4013: “system”未定义；假设外部返回 int
+D:\class\22\创新创业\SMx-master\SM3\Windows\SM3\src\sm3test.c(16,14): warning C4101: “ctx2”: 未引用的局部变量
+D:\class\22\创新创业\SMx-master\SM3\Windows\SM3\src\sm3test.c(15,14): warning C4101: “ctx1”: 未引用的局部变量
+  SM3.vcxproj -> D:\class\22\创新创业\SMx-master\SM3\Windows\x64\Debug\SM3.exe
